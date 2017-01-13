@@ -1,4 +1,4 @@
-application: kindleear
+application: kiandrss-155511
 module: worker
 version: 1
 runtime: python27
